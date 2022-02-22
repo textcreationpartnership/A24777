@@ -1,0 +1,688 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrological and theological observations and predictions for the year of our Lord 1700 Wherein are briefly shewn as well the judgements and opinions of several wise men concerning this present year and other years as his own judgment with the signification of the eclipses of this present year. With monthly observations for every month of this present year briefly containing the most remarkable events that are likely to happen in England and other places, and the most likely days for rain and change of vveather and other things worthy of observation. The lofy heavenes by their whirling motion ... behold the day star in their hearts to rise. Psal. 19.1 ... 2 Pet. 1.19. By John Silvester student in astrology.</title>
+            <author>Silvester, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24777</idno>
+            <idno type="STC">Wing A2388A</idno>
+            <idno type="STC">ESTC R213384</idno>
+            <idno type="EEBO-CITATION">99825778</idno>
+            <idno type="PROQUEST">99825778</idno>
+            <idno type="VID">30165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1803:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Astrological and theological observations and predictions for the year of our Lord 1700 Wherein are briefly shewn as well the judgements and opinions of several wise men concerning this present year and other years as his own judgment with the signification of the eclipses of this present year. With monthly observations for every month of this present year briefly containing the most remarkable events that are likely to happen in England and other places, and the most likely days for rain and change of vveather and other things worthy of observation. The lofy heavenes by their whirling motion ... behold the day star in their hearts to rise. Psal. 19.1 ... 2 Pet. 1.19. By John Silvester student in astrology.</title>
+                  <author>Silvester, John, 17th cent.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author and are sold by W. Bonny near the Tolsey,</publisher>
+                  <pubPlace>Bristol :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Running title reads: Astrological observations, for the year 1700.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Ephemerides --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30165:1" rendition="simple:additions"/>
+            <p>
+               <hi>Aſtrological</hi> and <hi>Theological</hi> OBSERVATIONS AND PREDICTIONS, For the Year of our LORD 1700.</p>
+            <p>WHEREIN Are briefly Shewn as well the Judgements and Opinions of ſeveral Wiſe Men concerning this preſent Year and other Years as his own Judgment with the Signification of the Eclipſes of this preſent Year.</p>
+            <p>WITH Monthly Obſervations for every Month of this preſent Year breifly containing the Moſt Remarkable events that are likely to happen in <hi>England</hi> and other Places, and the moſt likely days for Rain and Change of VVeather and other things worthy of Obſervaton.</p>
+            <q>
+               <bibl>Pſal. 19.1.</bibl>
+               <l>The lofty Heavenes by their Whirling Motion</l>
+               <l>Over the Earth, deep Seas, and floting Ocian,</l>
+               <l>Dayly declare to ſinful Fleſh and Blood,</l>
+               <l>The Glory of the great Omniſcient God,</l>
+               <l>The Firmament fill'd with amazing Lights,</l>
+               <l>Doth Shew his Handy-work to Earthly Sights:</l>
+            </q>
+            <q>
+               <bibl>Pſal. 147.4</bibl>
+               <l>He tells the number of Sidereal Flames,</l>
+               <l>And calls them by their own Celeſtial names,</l>
+               <l>Thei're happy who have carnal eyes to gaze,</l>
+               <l>Upon thoſe glorious lights, which us amaze:</l>
+            </q>
+            <q>
+               <bibl>2. pet. 1.19.</bibl>
+               <l>More happy they, who can with Spiritual eyes,</l>
+               <l>Behold the day Star in their Hearts to riſe.</l>
+            </q>
+            <p>By <hi>JOHN SILVESTER,</hi> Student in <hi>Aſtrology<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>Living near the <hi>Market-houſe</hi> at <hi>Alders Key</hi> in <hi>Briſtol.</hi>
+            </p>
+            <p>
+               <hi>BRISTOL,</hi> Print<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for the Author and are Sold by <hi>W. B<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> near the <hi>Tolſey.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30165:2"/>
+            <head>
+               <hi>Aſtrological</hi> and <hi>Theological,</hi> OBSERVATIONS AND PREDICTIONS For the Year of our LORD, 1700.</head>
+            <p>THIS is that great Year, which ſeveral Wiſe-men have pointed at, wherein or about which time, they have Conjectured that the World would ſee ſome great Unuſual and Famous Changes.</p>
+            <p>
+               <hi>John Napeir</hi> L. of <hi>Marchiſton,</hi> believed the day of Judg<g ref="char:EOLhyphen"/>ment would fall between the Years 1688. and 1700. for he believed the Abomination that made Deſolate, was ſet up in the Year of <hi>Chriſt,</hi> 365 by that Abominable <hi>Julian,</hi> when he made Decrees for Deſolating and Devouring <hi>Gods</hi> Servants, therefore he ſaid from the Year of <hi>Chriſt</hi> 365 we are Commanded to <hi>Reckon</hi> 1335 Years, which fal<g ref="char:EOLhyphen"/>leth in <hi>Anno.</hi> 1700 And then (ſaith <hi>Daniel</hi> verſe 6th.) ſhall be the end of all Wonders, even the Wonderous and great Day of the Lord: Read the laſt Chapter of <hi>Daniel.</hi>
+            </p>
+            <p>
+               <hi>George Withers</hi> conceived that near unto this Year the Roman Empire, would be totally ſubverted and overthrown, for they made their Com<g ref="char:EOLhyphen"/>putations by theſe Numeral letters, MDCLXVI. which are the Nu<g ref="char:EOLhyphen"/>murals for 1666 which being added to 32 Years (about which Age <hi>Chriſt</hi> ſuffered) the Aggregate will amount to 1698 which is near unto 1700.</p>
+            <p>In a little book entituled Reverend <hi>M. Brightman's,</hi> Judgment or Pro<g ref="char:EOLhyphen"/>pheſies, it is thus Written, but the Pope is to be quite and fully overthrown at the Year 1686 and that in the Year 1696 the great Turk alſo ſhall be utterly overth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own.</p>
+            <p>
+               <hi>T. B.</hi> In his little Book, Wrote that the <hi>Turkiſh</hi> Power ſhould come to his end, and that none ſhould be able by any help what ever to prevent it, even at the Year 1697.</p>
+            <p>
+               <hi>I.H.</hi> In his Cataſtrophe Mundi wrtho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Year 1700 ſaying,
+<pb n="3" facs="tcp:30165:2"/> now is <hi>Rome</hi> Deſtroyed and the Downful of the Seat of <hi>Peter;</hi> the Con<g ref="char:EOLhyphen"/>verſion of the <hi>Turks,</hi> and <hi>Jews,</hi> ſoon follow, and in his appendix Wrote that the ☌ ♄ ♃ in ♐ in 1722 will Deſtroy all the Opinions of of the Pagans, all over the whole World, and Reduce all to the Faith of our Saviour <hi>Jeſus Chriſt,</hi> and that all Contrariety of Opinions will be laid Open. The Man was Ingenious, but I doubt his Judgment will fail him this Year.</p>
+            <p>In a certain Book (Entituled a <hi>Calender</hi> of Prophetick time drawn by an Expreſſe Scripture line) on the Title page, there is a propheſy thus Demonſtrated; But that the time of their Propheſy in Sackcloth (mean<g ref="char:EOLhyphen"/>ing the two Witneſſes Slain) will not Expire till the Year 1697 And at the Year 1727 ſhall begin the final Deſtruction of the Beaſt by the viols, accompliſhed at the Year 1772 in the new <hi>Jeuſalem</hi> briefly deſcribed After which time the Author concluded there would enſue Bleſſed times accord<g ref="char:EOLhyphen"/>ding to theſe words, in another place of the ſaid Book by Calculation of time, this bleſſed ſtate will begin e're the Seventh thouſand of the World enters, but as near as within 240 Years I took the more notice of 1772 becauſe it holds a near congruency with the Year 1782 Expreſſed in my following predictions concerning the Roman Empire Aſtrologically and Theologically Compoſed which as great ſecret I bequeath unto the World</p>
+            <div type="part"><!-- removed @N 'Roman Empire' -->
+               <head>Concerning the <hi>Roman</hi> Empire</head>
+               <p>I find by our Trigonicall table Calculated by the great pains and In<g ref="char:EOLhyphen"/>duſtry of <hi>I. H.</hi> which he Extracted from the Caroline tables of <hi>T. S.</hi> Publiſhed in 1663. That <hi>Jeſus Chriſt</hi> was Born under the ☌ ♄ ♃ in that Pious Sign ♓ [one of the Houſe of Pious ♃] but he Eſtabliſhed his moſt pure Chriſtian Religion under the ☌ ♄ ♃ in that Pious Sign ♐ <hi>Sagittarus,</hi> [the other Houſe of Pious ♃] and under the Sixth Trig<g ref="char:EOLhyphen"/>onicall Revolution of the ☌ ♄ ♃ ſince the Creation of the World And it came into my Heart that as the Lord made Mans and Finiſhed his work on the <hi>Sixth</hi> day of the Week, and reſted on the Seventh day, even ſo he was pleaſed to Eſtabliſh the true Chriſtian Religion, and to Finiſh the Settlement thereof, by the Death of his Dear Son <hi>Jeſus Chriſt,</hi> under the ☌ ♄ ♃ in that diurnall and Pious Signe ♐ that happned under the <hi>Sixth</hi> Trigonical Revolution thereof ſince the Creation of the World (to bring all belevers into a ſpiritual way of Worſhip and to purifie them) who ſaid it is Finiſhed, and then gave up the Ghoſt, <hi>John,</hi> the 19.30. And after his reſurrection he likewiſe entered into his Eternal Sabbath of Reſt, And whereas <hi>Jeſus Chriſt,</hi> made choice of Twelve <hi>Apoſtles</hi> to convert Sinners to Rightoueneſs, ſo it is probable that the Lord will convert many of the greateſt infidels to the true <hi>Chriſtian</hi> Faith under the ☌ ♄ ♃ that will hap<g ref="char:EOLhyphen"/>en after their Twelth ingreſs into that Piou Signe ſince the birth of <hi>Chiſt</hi> (in or near the Year 1782) to perfect a Reformation in the World [through the Spirit of Grace within] for this great Apoſtolick
+<pb n="4" facs="tcp:30165:3"/> Number 12 is [by wiſe Men] called Divine, ſo that it ſeems very like<g ref="char:EOLhyphen"/>ly, that the Pope of <hi>Rome</hi> (if not alſo ſome other unconverted Monarchs) may under the conjunction of that great Apoſtolick numb<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>her totally overthrown or elſe converted through ſo me Judgmen, tto the true Chriſtian Faith, for the Lord Reſpects number, and order, and a very good Reaſon may be given, why <hi>Chriſt</hi> made Choice of the Number of Twelve Apoſtles.</p>
+               <p>The Number 1728 is by wiſe Men counted fatal, to which when any City, or Common Wealth hath attained; it ſhall afterwards Decline: Now whereas the true Chriſtian Religion and Spiritual way of Worſhip was not fully Eſtabliſhed 'till the Death of Chriſt (<hi>who ſaid if I go not away the Comforter will not Come unto you</hi> John 16.7.) therefore if we add 32. [the Number of <hi>Chriſt's</hi> Age when he died] to 1728, the totall will be 1760. which is the Year, wherein [by this Rule] the true Chriſtian Religion will by ſome means begin to decline in power, but whether by the ſlothfullneſs of the Profeſſors thereof or by ſome great perſecution I am not ſenſible of<g ref="char:punc">▪</g> But if it ſhould ſo happen I conjecture the Lord will viſit his People again; and animate and quicken them by his Spirit within, and drop down ſome ſweet Celeſtial influences from the ſupernall ſtellary powers under the aforeſaid ☌ ♄ ♃ in that Pious Signe ♐ that will hap<g ref="char:EOLhyphen"/>pen in or about the Year 1782. wherefore let them praiſe the Name of the Lord: for his Name alone is Excellent, his Glory is above the Earth, and Heaven. <hi>Pſal.</hi> 148.13.</p>
+               <p>And whereas the Roman Empire was Eſtabliſhed about 45 Years be<g ref="char:EOLhyphen"/>fore the coming of <hi>Chriſt,</hi> therefore if we ſubſtract 45 from the aforeſaid Number 1728. the Remainder will be 1683. about which Year [by this Rule] the <hi>Roman</hi> Empire ſhould have begun to Decline in Power, And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndeed I ſuppoſe it was ſorely ſhaken, and the inhabitants poſſeſed with fears that very year when the <hi>Turkiſh.</hi> Army Beſieged <hi>Vienna,</hi> and I believe that Number would have been more Effectual upon that Empire if the <hi>Turkiſh</hi> Empire had not been Eſtabliſhed under the ☌ ♄ ♃ in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which was the ſigne Oppoſite to the ſigne ♌ wherein the three Conjunctions of ♄ and ♃ happned <hi>in</hi> 1682 and 1683. which gave the <hi>Tukiſh</hi> Army a terrible Repulſe according to my Enſuing Diſcourſe.</p>
+            </div>
+            <div type="part"><!-- removed @N 'Turkish Empire' -->
+               <head>Concerning the <hi>Turkiſh</hi> Empire.</head>
+               <p>THis preſent Empire of the <hi>Turks</hi> was cheifly Eſtabliſhed by <hi>Othomarn</hi> in 1289 under the ☌ ♄ ♃ in the airy ſigne ♒ And therefore after ♄ and ♃ in 1682 and 1683 had made their Conjunctions in that lofty Regal high Spirited ſigne ♌ [the ſigne oppoſite to ♒] the <hi>Turkiſh</hi> A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my was Vanquiſhed and by a terrible Repulſe at the Siege of <hi>Vienna,</hi> were forced to fly away, and in or about the Year 1742. The two ſuperiour Plan<g ref="char:EOLhyphen"/>ets ♄ ♃ will again be in ☌ in the fiery ſigne ♌ under which it is prob<g ref="char:EOLhyphen"/>able that the <hi>Turkiſh</hi> Army, will again have a very terrible Repulſe; and that
+<pb n="5" facs="tcp:30165:3"/> that Empire will then be more wofully ſhaken, becauſe that conjunction will be after they have made their third Enterance into ♌ (the Number three being counted a moſt powerful Number,) But if the <hi>Turk</hi> be not then driven out of his Empire, perhaps the Lord may be pleaſed to give him a Pietious Viſitation of his Love under that famous ☌ ♄ ♃ in that pious ſigne ♐ that will happen in or about the Year 1782 [before mentioned] it being the Conjunction of the 12 ingreſſe of the two Superious into that pious ſigne<g ref="char:punc">▪</g> ſince the Birth of <hi>Chriſt,</hi> and then if that preſent <hi>Turkiſh</hi> Emperour harden not his Heart, he may be Bleſſed for ever<g ref="char:EOLhyphen"/>more; for it is written I will give thee for a light unto the Gentiles that that thou maiſt be my ſalvation unto the end of the Earth <hi>Iſaiah</hi> 49.6. Theſe <hi>Turks</hi> were at firſt a ſmall People, and were Driven out of ſeveral places but at length they ſettled and (by the permiſſion of God) Wonderfully encreaſed and proſpered.</p>
+               <p>
+                  <hi>I. M.</hi> In his Cataſtaſis <hi>Mundi</hi> wrote that <hi>Ottoman</hi> firſt Founded the <hi>Turkiſh</hi> Empire in the Year of <hi>Chriſt</hi> 12<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9 and that if <hi>Saturns</hi> greateſt Years [465] be added to 1289. it will make 1754 therefore ſaid he, this Monarchy ſeems to ſtand Firm and Stable no longer than unto the Year of <hi>Chriſt,</hi> 1754 which indeed agrees with my aforeſaid Computations; for 1754 is a Year which is under the ☌ ♄ ♃ in 1742.</p>
+               <p>The Number 666 is the great Tabuler Number of the Sun, the moſt Renouned Planet of Majeſty; which is as a King or an Emperour a<g ref="char:EOLhyphen"/>mong the Stars.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>6</cell>
+                        <cell>32</cell>
+                        <cell>3</cell>
+                        <cell>34</cell>
+                        <cell>35</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>11</cell>
+                        <cell>27</cell>
+                        <cell>28</cell>
+                        <cell>8</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>14</cell>
+                        <cell>16</cell>
+                        <cell>15</cell>
+                        <cell>23</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>20</cell>
+                        <cell>22</cell>
+                        <cell>21</cell>
+                        <cell>17</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>29</cell>
+                        <cell>10</cell>
+                        <cell>9</cell>
+                        <cell>26</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>5</cell>
+                        <cell>33</cell>
+                        <cell>4</cell>
+                        <cell>2</cell>
+                        <cell>31</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>This ſoler Table is wiſely Com<g ref="char:EOLhyphen"/>poſed of 36 Figures placed ſquarewiſe and all the Figures in every Row and overthwart, do ſtrangly amount, to 111 which multiplied by 6 the product will be the great Tabuler Number of the Sun and of his aſtrall Emperial Majeſty, Wiſe Men have accounted this Table and Number of great vertue and E<g ref="char:EOLhyphen"/>eſſuacy and have ſaid that the moſt high created all things by Number Weight and Meaſure.</p>
+               <p>Behold this ſtrange Table and ad all the Numbers together and you will find the total to be 666.</p>
+               <p>This great ſolar Number of Majeſty 666 may be thus applyed to the Num<g ref="char:EOLhyphen"/>ber of the beaſt, 666 [mentioned in in <hi>Reve.</hi> 13.18.] and the Number of
+<pb n="6" facs="tcp:30165:4"/> his Name. for this Terrible Beaſt aroſe out of the Turbulent ſea or unſtable Element of water of the Nature of the Loweſt Planet, the <hi>Moon,</hi> but he ſoon became magnificent and entered into terreſtrial Glory and Splendour [compareable to the Glory and Majeſty of the Celeſtial Sun, which God hath Ordained to Rule as a King or an Emperour among the ſtars] and therefore all the World wondered after the beaſt: and I ſuppoſe <hi>John</hi> himſelf, did not beleive nor expect, that this cruel Imperial Seven-headed Beaſt, would ever Perſonally appear in ſuch a Prodigious ſhape to Rule over Men or Saints, as he ſaw him in the viſion, but rather myſti<g ref="char:EOLhyphen"/>cally in Man, therefore this Number of the Beaſt is alſo the Number of a cruel Imperial Man: And as this horne Crowned cruel Imperial Beaſt was Myſtically to appear in a cruel Imperial Man, <hi>viz,</hi> in ſome Man of Sin, and to Reign in that unity, as a King of Kings in Earthly Glory and Splendour, Comparable to the admirable Glory and Majeſty of the Aſtral King or ſublime Celeſtial Sun ſo by his terreſtial Glory and Magnificence he Merited the Like Regal and Imperial Name of <hi>Majeſty,</hi> whoſe Number is 666 And by his Imperial <hi>Majeſty</hi> and Dragoniſh fury he made War, with the Saints, and overcame them And therefore he alſo merited the Name of <hi>Antichriſt,</hi> which is agreable with the Name of Blaſphemy Written on his Heads: ſo that his Name is according to his evil Nature is [and may not improperly be called] <hi>Antichriſtain Majeſty</hi> or <hi>The great and mighty, Blaſphemer,</hi> who Metaphoritally, was a terreſtrial Sun whoſe number is 666. <hi>Note. this cruel Bea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t may alſo Externally be underſtood, and the firſt Beaſt as well as the Second may be called</hi> Antichriſt, <hi>though the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cond ſeemes cheifly to merit the ſaid Name</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>λ</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>α</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>τ</cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>ε</cell>
+                        <cell>05</cell>
+                     </row>
+                     <row>
+                        <cell>ι</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>ν</cell>
+                        <cell>50</cell>
+                     </row>
+                     <row>
+                        <cell>ο</cell>
+                        <cell>70</cell>
+                     </row>
+                     <row>
+                        <cell>ς</cell>
+                        <cell>200</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">666</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>John Napier,</hi> L. of <hi>Marchiſton,</hi> conceived this Num<g ref="char:EOLunhyphen"/>ber of the Beaſt 666 to be the Greek Name λατεινος (for the Grecians made their Letters Numurals) which being thus placed and the Numbers caſt up, the total will be the aforeſaid Num<g ref="char:EOLunhyphen"/>ber 666 and he ſaid λατεινος is not only the Name of a Man but tha Name of the firſt <hi>Beaſt</hi> The Man which he meaned was King <hi>Latinus,</hi> and and the Firſt Beaſt he ſaid was the Latin Empire.</p>
+               <p>Now it is very Obſervable that the Chriſtian Religion, began to ſpring up about the 15th. Year of <hi>Chriſt,</hi> and was Eſtabliſhed under the great Conjunction of ♄ &amp; ♃ in that Pious Regal &amp; Fiery ſign ♐ <hi>Sagitarius,</hi> the Houſe of Pious ♃ under which Conjunction, it pleaſed the Lord to work Wonders and to bring to paſs many Miraclonus and wonderful Changes.</p>
+               <pb n="7" facs="tcp:30165:4"/>
+               <p>And it is alſo very Obſervable that in the Year, 1603. there happened another great Conjunction of ♄ and ♃ in the Firſt face of the ſame Pious, Regal and fiery Signe ♐, near the Scorpious Heart [a ſtar of the ſecond magnitude] of the Nature of <hi>Mars</hi> and pious Jupiter, Under which (according to my beſt Computation) there ſprung up <hi>a</hi> certain Religion and a precious people in the North of <hi>England,</hi> appearing with Wonderful Zeal, in whoſe Hearts, the fear of God was placed and the Mighty Power of God was felt, working ſpiritual changes, condemning pride and ſecret-ſinns, leading many into ſtates of humility and into the true ſpiritual Worſhip, which Religion did not much ſpread it ſelf for many Years.</p>
+               <p>And in the Year 1642 there happened a Conjunction of ♄ ♃ in that Pious and watery Signe ♓ [the other Houſe of Pious ♃] under which Pious Conjunction, the ſaid Religion wonderfully proſpered and the Zeal of the ſaid People was quickned and much admired, and their Pious converſaſions were ſufficient tokens to demonſtrate that their Teach<g ref="char:EOLhyphen"/>er was Divine and ſpiritual and the ſaid Religion began to overſpread the Kingdom of <hi>England,</hi> to the Admiration of many People, and to make a powerful entrance into diverſe other Kingdoms and Nations.</p>
+               <p>Moreover it is very Obſervable that in the Year, 1663 there happened a<g ref="char:EOLhyphen"/>nother Famous Conjunction of ♄ and ♃ In that Pious Regal and Fiery Signe ♐ <hi>Sagittarus,</hi> which may not improperly be called a great Con<g ref="char:EOLhyphen"/>junction, becauſe it paſſed out of a watery Signe, into a Fiery: under which Famous Conjunction, The ſaid Religion, Flouriſhed and more and more, overſpread the Kingdom of <hi>England</hi> and more Powerfully took place in diverſe other Nations, ſo that as the ſaid Religion Sprung up at firſt under the ☌ ♄ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in that Pious conſtellation: even ſo it hath proſpered and flouriſhed under this ſame.</p>
+               <p>But many Slighting the day of Gods pretious viſitation to their Souls went out of their firſt tenderneſs and departed from the Power of God lineſs and became ſlothful and ſleepy Reſting, only in forms and forma<g ref="char:EOLhyphen"/>lities endeavouring to comprehend Divine Myſteries (which are Chiefly Reveled through divine and Spiritual Judgments) from whence differences and Diſtractions aroſe ſo that in the Year 1677 and 1678 when ♄ was tranſ<g ref="char:EOLhyphen"/>iting the Signe ♊ [the ſigne oppoſite to that pious ſigine ♐] and in ☍ and ☌ ♂ therein, the diſcords about the ſaid Religon were very Great and Publick to the World and aroſe into a very high ſtation of contention, and great diſtractions appeared, to the grief of many ſouls and they became ſubject to the Contentious Planets, and aſpects cauſing
+<pb n="8" facs="tcp:30165:5"/> the ſaid Religion to appear infamous (which at the Begining was beau<g ref="char:EOLhyphen"/>tified with Holineſs) to the Great diſhonour of God, and the improſ<g ref="char:EOLhyphen"/>perity of the ſaid people in Grace and ſpiritual things.</p>
+               <p>And in the Year 1682 and 1683 there happned to be no leſs then 3 Conjunctions of ♄ and ♃ in that lofty high ſpirited Regal and Firey ſigne ♌ <hi>Leo,</hi> (there happening a great Commet in one of the ſaid Years which alſo ſucceeded that terrible Commet in 1680) under which three Conjunctions in this Lofty and high ſpirited ſigne, the diſcords about the ſaid Religion Strangly encreaſed, and lofty Diſputes aroſe (according to the Nature of the conſtellation) and they went into Diviſions and ſeparations eſpecially about the Year 1692 and 1693 when contentions ♄ had took poſſeſſion of that pious Sign ♐ and from thence had 3 times vexed Pious ♃ with his three Oppoſitions who was then very weak in ♊ and like one turned out of his own habitation into a Wilder<g ref="char:EOLhyphen"/>neſs, weeping, whilſt his Malicious enemy poſſeſſed the Houſe of his joy and glory and Fought againſt him wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his own Weapons, ah poor ♃ deſpiſed, and Forlorne, many Pious ſouls here on earth have ſorely greived (if not Mourned) becauſe of thy Deſo<g ref="char:EOLhyphen"/>lation and exile, but wait a little patiently, for thy next happy Conjunction with ♄ in thy own Pious habitation (which will happen in or about the Year 1722) that thou Maiſt plead With thy Enemy for Dealing ſo Malicouſly with thee.</p>
+               <p>Moreover in or about the Year, 1702 the two ſuperiour Planets ♄ and ♃ will make their conjunction, in that hotſpirited Fiery ſign ♈ [the houſe of furious and Fiery Mars and the aſcendant of <hi>England</hi>] under which Conjunction it is probable there will ariſe in <hi>England,</hi> many hot and Furious diſputes [according to the Nature of the conſtellation] about ſome Principles of the ſaid Religion (for ♃ contends wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ♄ about Religion, in what ſign ſoever he is in conjunction with him) ſo that I fear, the lord will ſuffer the Diſtractions to be greater in <hi>England,</hi> eſpcially about the Year, 1707 or 1708 when Contentions ♄ tranſits the ſign ♊ [the ſign oppoſite to that pious ſign ♐] and that ſome ſecret controverſies will again be made publick to the World, unleſs the Lord either by a miracle he pleaſed to put a ſtop to it or many that are lofty and contentions deſcend into the Antient ſtation of Humility and therein abide waiting for the Spiritual appearance of Chriſt in whom are hid all the treaſures of Wiſdom and knowledge <hi>Coloſſ.</hi> 2.3. for the <hi>Wiſe-Virgins</hi> are uſually contented with their Spiritual enjoyments till through their Experiences a Right underſtanding of divine M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſteries is given. <hi>Note, though the Wiſe Virgins (under <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his Conjunction) may be batte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed</hi> by <hi>the Fooliſh with much force and ſubtility about the ſaid Yrar</hi> 1707 <hi>or</hi> 1708 <hi>Yet</hi> I <hi>conjecture they will begin and End Victoriouſly.</hi>
+               </p>
+               <p>Again it is Obſerveable that in or about the Year 1722 or 1723 the two ſuperiour Planet ♄ and ♃ will be again in conjunction in the ſame pious Regal and Fiery ſign ♐ (under which the ſaid Religion Cheifely aroſe) under which I believe and Conject<g ref="char:EOLhyphen"/>ure the Lord [the the great Governour of Nature and of all Celeſtial motions of the Sphears and planets] will prune his Vine and cut of many of the ſuperfluous lofty Branches, which have not yet caſt down their worldly Magnificence, nor ſaid thou art worthy O Lord to Receive glory and Honour and power, <hi>Reve.</hi> 4, 11. and he, will dreſſe it and beautify it again in the ſight of other profeſſors and make it
+<pb n="9" facs="tcp:30165:5"/> more famous, and will Raiſe up a more ardent Zeal in and among the Wiſe Virgins, and work a Reformation through the Spirit of Grace within: Now ſhall ♃ that was ſo much Grieved, Deſpiſed and Forlorne, in or about the Year, 1692 or 1693, begin to Triumph over his Adverſary, and to Recover his loſt fame, and Renown and the Wiſe Virgins will begin to hold up their heads and appear again in beauty, this is the appointed time wherein the Lord will begin to conſolate the Afflicted and he hath determined to do mighty things before the Conjunctions of the two Superiour Planets, (which are as the Lords Inſtruments) have made their Departure out of the Fiery Trigon into the Earthy, for ever ſince the Creation of the World, it hath pleaſed the Almighty God, to effect the moſt Re<g ref="char:EOLhyphen"/>markable and moſt Eminent Changes here o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earth, and gradually to bring to paſs the greateſt wonders under the Conjunctions of the two Superiour Planets in the fiery trigon (we being now under the 8 trigonicall Revolution incompleat and imperfect ſince the Cre<g ref="char:EOLhyphen"/>ation of the World) and when their Conjunctions [an hundred Years hence] have made their departure out of the Fiery trigon into the Earthy, they will not make their Appearance in the fiery trigon againe 'till many hundered Years are Expired.</p>
+               <p>But under this Conjunction of the two Superiours, about the Year 1737 or 1738, when ♄ begins to make another tranſit through the airy Sign ♊ Gemini [which is the Signe oppoſite to ♐] the Lord will ſuffer the Fooliſh Virgins to contend again with the Wiſe, and one with another becauſe of their Darkneſs and Diſobedience, therefore let the Wiſe Virgins be armed with his power that they may then be preſerved in peace for God hath ordained a time to E<g ref="char:EOLhyphen"/>very purpoſe under Heaven <hi>Eccleſiaſtes.</hi> 3.1.</p>
+               <p>But that which is moſt Remarkable is this, that in or about the year 1782 the two Superiour Planets ♄ and ♃ will make another Famous Conjunction in that Pious Regal and Fiery Signe ♐ which will be the Conjunction of their Twelfth ingreſſe into that Pious Signe ſince the birth of Chriſt (the Number Twelve being by wiſe Men cal<g ref="char:EOLhyphen"/>led divine) under which Conjunction and great Apoſtolick Num<g ref="char:EOLhyphen"/>ber (I Conjecture) the Lord will do very great things and per<g ref="char:EOLhyphen"/>fect a Reformation in the World and gather his People into a more perfect unity and Confound the fooliſh Virgins, who are apt to give
+<pb n="10" facs="tcp:30165:6"/> offences to the Wiſe by which they are lyable to that Wo which Chriſt Proclaimed when he ſaid Wo to that Man by whom the offence Cometh <hi>Matth.</hi> 18.7.</p>
+               <p>I ſhall now make a great leap over many yeares to come and ſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l only mention one event more, which may be Remarkable to poſterity: about 300 years hence the Conjunction of the two Superi<g ref="char:EOLhyphen"/>our Planets ♄ and ♃ will make their ingreſs into the airy trigon &amp; into the Sign ♊ [which is oppoſite to that Pious Signe ♐ under which the ſaid Religion aroſe] under whoſe Conjunction &amp; Conjunctions in the Signe ♊ the Lord, who hath given Motions to the admirable wheels of Nature hath preordained by their circulations, to let in a very great flood of afflictions upon the Profeſſors of this Religion, for a Tryal of Their Faith, and a Grievous perſecution (I Conjecture) will ariſe to overthrow the ſaid Religion or to drive the profeſſors thereof in<g ref="char:EOLhyphen"/>to Obſcurity and Deſolation, and the Induction of ſtrange heriſyes will be known (unleſs the great Governour of Celeſtial motions Miraculouſly prevent it, Therefore all that profeſſe the ſaid Re<g ref="char:EOLhyphen"/>ligion in theſe our Days ought to priſe the day of Gods Viſitation and love unto their Souls, while the ſtorms are not ſo Great, and as Wiſe Virgins to make their progreſſe towards the Lord out of pride and Sins that they may appear as lights to many that are in Darknes, and let them praiſe the Lord for Diſcovering that Bleſſed principle of Light, to them in their Days, who alſo works by the conſtellations and heavenly Bodys, as well as by his Spirit in man.</p>
+            </div>
+            <div type="part"><!-- removed @N 'religious differences' -->
+               <head>Of the Four Principal cauſes of <hi>Religious</hi> Differences.</head>
+               <p n="1">1. The <hi>Firſt</hi> cauſe is from Suſpition Without Knowledge, from whence falſe Judgments are given and unſavoury offences; corupt<g ref="char:EOLhyphen"/>ing and ſevering the Chriſtian unity.</p>
+               <p n="2">2. The <hi>Second</hi> cauſe proceedeth from diſobedience to the Word and Spirit of God, through which the loftineſs of the Heart continues and the Rich are Reſpected above the Poor, by which the ardency of affections may be cooled and diſunity take Place.</p>
+               <p n="3">3. The <hi>Third</hi> cauſe, is for want of Divine Manifeſtations through which many Scripture expreſſions cannot be Comprehen<g ref="char:EOLhyphen"/>ded nor underſtood, from whence Differences in Opinions may often ariſe.</p>
+               <p n="4">
+                  <pb n="11" facs="tcp:30165:6"/>4. The <hi>Fourth</hi> cauſe proceeds from a Contrariety in nature, for every ones Nature is not alike, ſome Natures being very much dif<g ref="char:EOLhyphen"/>ferent and Incongruent, from whence ariſe diverſe croſſings and offences: And the cheife cauſe of contrariety in Nature is from the Circumrotation of the admirable wheels of Nature (which move through the Preordination of the great and wiſe Creator) in which he hath Fixed many l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght bright and Admirable bodys (through which the Heavens Declare his Glory pſal, 19, 1.) which being of Diverſe Natures, do through their Daily &amp; inceſſant Motions and preordi<g ref="char:EOLhyphen"/>nate circulations, cauſe a mixture of influences in the Supernall Regi<g ref="char:EOLhyphen"/>ons of the air, from whence proceed the love and enmity in his crea<g ref="char:EOLhyphen"/>tures here below, who hold a congruency or incongruency of Natures among themſelves, for if the Planet that Governs the Oriental Angle at the Birth of any perſon be located in a place oppoſite to the Place of any other Planet that governs the Orientall angle (at the time of anothers birth the two Perſons through a contrariety in Nature, will (to Admiration) very often Diſagree eſpecially if the Planet be either ♄ or ♂.</p>
+               <p>Though many know not the Reaſon why this is written and Pub<g ref="char:EOLhyphen"/>liſhed, yet if they, Rightly apply it, it may do them much good.</p>
+            </div>
+            <div type="poem">
+               <head>A Short Song of the true Chriſtians or wiſe Virgins.</head>
+               <lg>
+                  <l>OUR Burning lamps were fill'd with pretious Oyle,</l>
+                  <l>When we that Joyful midnight cry had heard:</l>
+                  <l>Our lofty foes did make us weep and wail,</l>
+                  <l>When we upon our Hevenly courſe had ſtear'd.</l>
+               </lg>
+               <lg>
+                  <l>Once <hi>Iſrael</hi> For an earthly Kingdom Fought,</l>
+                  <l>And were Victorious through their Valiant King</l>
+                  <l>But we an everlaſting Kingdome ſought,</l>
+                  <l>And of our Spir'tuall Victories can ſing,</l>
+               </lg>
+            </div>
+            <div n="predictions for 1700" type="part">
+               <head>I ſhall ſhall now proceed to give my Aſtrological Judgments for this preſent Year <hi>1700.</hi>
+               </head>
+               <p>THE poſitions of the Heavens at the time of the Suns, ingreſſe in<g ref="char:EOLhyphen"/>to the <hi>Firſt Minute</hi> of the Vernall Equinoctial Signe ♈ ſeeme
+<pb n="12" facs="tcp:30165:7"/> to be wholly for Peace, and that <hi>England,</hi> will not be Moleſted, nor encumbered with warrs but will this Year be in a ſtate of much felicity, yet from ſome other poſitions of the Planets I am ſomewhat afraid of ſome Eſtival diſturbances, eſpecially in Ireland, though the greateſt troubles in <hi>Ireland</hi> I doubt will be in 1705 <hi>But Ho'lland</hi> and <hi>Scotland</hi> ſeem to be pretty free from Martial diſturbances till 1710 or 1711 but perhaps <hi>France</hi> may next year be threatned by a Forreigne enemy.</p>
+               <p>The Clergy ſeem to be much diſſatisfyed in their minds, and to ſet themſelves in oppoſition againſt ſome other profeſſors: The Planet ♄ is now making his long Voyage through the watery Signe ♓ along with the ☋ which either this year or the next may cauſe ſome per<g ref="char:EOLhyphen"/>turbations and diſtractions, Bloodſhed and much Miſchief in many places Eſpecially in <hi>Cilicia, Galatia, Normandy,</hi> and in <hi>Egypt,</hi> the higher, and perhaps <hi>France,</hi> and Particularly <hi>Paris</hi> may in ſome meaſure par<g ref="char:EOLhyphen"/>ticipate of their portended Miſchief, and there may alſo much Con<g ref="char:EOLhyphen"/>troverſy and debates ariſe concerning ſects and the appearance of ſome new hereſy may take place. In <hi>January,</hi> the Planet ♄ goes out of ♒ into ♓ and perhaps ſome unuſual ſight may then appear in the air: I expect the apparition of ſome comet within three or four yeers.</p>
+               <p>About the year 1702. or 1703. (after ♃ hath made his next con<g ref="char:EOLhyphen"/>greſſe with ♄ in the fiery Sign ♈ [the aſcendant of <hi>England</hi>] and alſo after ♄ hath moved pretty far therein, we ſhall beſt know whether there will be Wars or Peace in <hi>England,</hi> if we can but eſcape a bruſh then, we may be happy and long reſt under the enjoyment of Peace and Tranquility: <hi>Sed O Anglia timeo ne multi hoſtes tune Exiſterent in te aut Contra, te Ergo cavit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vos incolae &amp; praecipu<g ref="char:cmbAbbrStroke">̄</g>e cum tempus ad veniat ſed utcunque quaedam magnae Mutationes tunc expectentur vel ſubito poſtea,</hi> and where<g ref="char:EOLhyphen"/>as the ☋ is exalted above ♄ in the Ninth houſe, it Signifies the Death of old Men and of Monks and of Religious Men: alſo ♄ applying to the ☋ at the time of the Suns vernall ingreſſe portends ſome ſcarcity of the Fruits of the earth yet by ſome other poſitions wheat ſeems to be indi<g ref="char:EOLhyphen"/>fferent Cheap, all the latter half of the year, But the Poſitions of our Summer ingreſſe very much threaten Miſcarryages to Women with Child.</p>
+               <pb n="13" facs="tcp:30165:7"/>
+               <p>The Kings and Princes of <hi>Europe,</hi> will this quarter be meditating about the ſea Affiairs, and ſometimes about the Religion of their ſub<g ref="char:EOLhyphen"/>jects, but they appear in great Splendour during the vernal and eſtival quarter, yet ſeem to be ſome way Diſpleaſed and diſturbed in the Autumnal Quarter.</p>
+               <div type="section"><!-- removed @N 'eclipses' -->
+                  <head>Of the <hi>ECLIPSES,</hi> of this preſent <hi>YEAR, 1700.</hi>
+                  </head>
+                  <p>THERE will happen but two <hi>Eclipſes</hi> this Year and they will be both of the <hi>Moon;</hi> the firſt will be on the twenty third day of <hi>February,</hi> at 36 minutes paſt Six of the Clock in the Morning, this <hi>Eclipſe</hi> will be total and the begining of it may be viſible to thoſe that are willing to riſe before the Sun Riſeth (if the air be clear.) It portends the Deſtruction of ſome of our Enemyes and alſo of ſome great Drinkers or Drunkards, and a Mortality to many Chil<g ref="char:EOLhyphen"/>dren or young Folks, and it alſo threatens ſickneſs or much evil to many Counſellors, and ſcribes, and ſignifies unfortunate Navigations and turbulent and pernitious winds, and perhaps in ſome Countrys it may cauſe an Earthquake. This Ecipſe will cheifly operate in thoſe Countrys, and Places that are Subject to the ſignes ♍ ♓ and ♒ but it threatens much evil to all Perſons in General, whoſe Acſendants were the 15th. degree of ♍ (or ſome degree near it) at the time of their Births.</p>
+                  <p>The Second will be an <hi>Eclipſe</hi> of the <hi>Moon</hi> on the 18th. day of <hi>Auguſt</hi> about 27 Minutes paſt 2 of the Clock in the Afternoon; this will be a great <hi>Eclipſe</hi> but inviſible to us, the <hi>Moon</hi> being Lady of the 8th. Houſe and poſited on the Cuſp of the third, and Religious ♃ being both Lord of the aſcendant and Lord of the <hi>Eclipſe</hi> and poſi<g ref="char:EOLhyphen"/>ted in ♑ It hath an ill ſignification concerning the Vulgar ſort of People, and denotes Death and Diſtruction to many of them, and to many Travellers and to ſome ſort of Profeſſors of Religion eſpecial<g ref="char:EOLhyphen"/>ly in thoſe Countrys and places under, ♓ ♐ and ♑, and alſo to Fiſhes in the Waters, but ♂ being Lord of Subſequent Angle and applying to the Cuſp of the aſcendant I fear it hath Relation to ſome future Diſturbances amongſt Men Eſpcially in thoſe Countrys and
+<pb n="14" facs="tcp:30165:8"/> places under the ſignes ♐ and ♊ This <hi>Eclipſe,</hi> will begin to operate moſt Manifeſtly about the middle of May in 1701.</p>
+                  <p>The great Omniſcient Omnipotent and moſt wiſe Creator, did not make the Sun Moon and Stars for Lights only, but for Diverſe Effects and purpoſes; wherefore he was pleaſed to give them power over the Natures of all Creatures in the air and Water and of all An<g ref="char:EOLhyphen"/>minals Vegetables and Minerals here on Earth, yet he hath not given away all his power to them, but as he hath been ever ſo he is now and ever will be, the Almighty which Commandeth the Sun, and it Riſeth not, and Sealeth up the Starrs, which alone ſpreadeth out the Heavens, and treadeth upon the Waves of the Sea, which maketh Arcturus, <hi>Orion, Pleiades</hi> and the Chambers of the South, which doth great things paſt finding out, yea and wonders without Number <hi>Job,</hi> 9.7, 8, 9, 10. May he not ſay unto Man that hath Humane Wiſdom? canſt thou do any of thoſe mighty things? or canſt thou bind the ſweeteſt influences of Pleiades? or looſe the bands of <hi>Orion?</hi> canſt thou bring forth <hi>Mazzaroth</hi> in his ſeaſon? or canſt thou guide <hi>Arcturus</hi> with his Sonns <hi>Joh.</hi> 38.31, 32.</p>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 148 3</hi>
+                        </bibl>
+                        <l>Praiſe him ye Heav'nly <hi>Sun</hi> and <hi>Moon,</hi>
+                        </l>
+                        <l>Praiſe him all ye Starres of Light:</l>
+                        <l>Your Riſing, moving, going Down,</l>
+                        <l>Glorifies him Day and Night.</l>
+                     </q>
+                  </epigraph>
+               </div>
+               <div type="monthly_observations">
+                  <head>Monthly Obſervation for every Month, this preſent Year <hi>1700.</hi>
+                  </head>
+                  <div n="January" type="month">
+                     <head>
+                        <hi>January's</hi> Obſervations.</head>
+                     <p>MANY Clandeſtine Conſultations by ſome great Council or Parliament ſeem to have been either in the preceed<g ref="char:EOLhyphen"/>ing Month, or may be about the begining of this: many Princes of Europe are now very Magnanimous and ſhew themſelves in great Splendour and are acting and contriving for the Conſolation and profit of their Subjects, the City of <hi>Oxf<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d,</hi> is now much
+<pb n="15" facs="tcp:30165:8"/> Eſteemed and favoured and many of the Clergy; and ſome other Learned Men will Reſort thither: ſome Potentate in <hi>Ireland</hi> ſeems to be ſomewhat enraged at the threatenings or ſome Exaſperating Speeches of ſome great Potentate whoſe aſcendant is ♏ we may now expect the ſafe arrival of many Ships to their ſeveral Ports: ſome change of weather may be expected before the middle of the Month.</p>
+                     <l>
+                        <hi>E're this cold ſhiv'ring Month hath taken leave,</hi>
+                     </l>
+                     <l>
+                        <hi>Of us, who here our earthly Dwellings have,</hi>
+                     </l>
+                     <l>
+                        <hi>Chronos and Ericina too conjoine,</hi>
+                     </l>
+                     <l>
+                        <hi>Moiſt'ning the earth with ſnow or ſhowers of Rain.</hi>
+                     </l>
+                     <p>towards the latter end of the Month</p>
+                  </div>
+                  <div n="February" type="month">
+                     <head>
+                        <hi>February's</hi> Obſervation.</head>
+                     <p>THIS Month ſeems to produce Weighty conſultations in Coun<g ref="char:EOLhyphen"/>cills, concerning the Militia, about which ſome Diſcords ariſe The main body of the Commonalty are now very well united to their head and are earneſtly endeavouring to get Money at home and abroad by their employments; the Seas ſeem to be perilous for Merchants ſhips: ſome danger of Loſſes by private Thieve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> on the Roads cauſing grief and trouble to Travellers. Snow or Rain about the 9th. 13th. 22d. 27th, Days.</p>
+                     <l>
+                        <hi>Now Duſky Phaenon doth with Clouds Obſcure,</hi>
+                     </l>
+                     <l>
+                        <hi>Geat Titans glory, and his ſplendour pure:</hi>
+                     </l>
+                     <l>
+                        <hi>The lofty Heavens weep, their falling Tears,</hi>
+                     </l>
+                     <l>
+                        <hi>Waſh clean the Earth's green morning gown ſhe weares.</hi>
+                     </l>
+                     <p>Eſpecially about the 12th. Day of the Month</p>
+                  </div>
+                  <div n="March" type="month">
+                     <head>
+                        <hi>March's</hi> Obſervations.</head>
+                     <p>THE Potentates and Nobles of ſome Nations, eſpecially of the Nations that are under ♈ and 69 ſeem now to blame their Subjects, and to act ſome thing which the Vulgar will not like Great Men have wiſe heads now, with a great ideal of policy in them, the Seas are now very Perillous by Reaſon of Pyrots, Travellers may now
+<pb n="16" facs="tcp:30165:9"/> Expect many affronts on the Roads by Thieves and highway Men. Men and their Wives differ much about the latter end of the Month, but I mean thoſe that are Naturally apt to be paſſionate; a probability of Rain about the 7th. 21ſt. 30th. Days, and indeed the latter end of the Month is likely to produce much Rain.</p>
+                     <l>
+                        <hi>When I the Rays of my judicious Eye,</hi>
+                     </l>
+                     <l>
+                        <hi>Had cast upon the ſplendid lights on high,</hi>
+                     </l>
+                     <l>
+                        <hi>I ſaw ſome wond'ring, ſome in diſcontent,</hi>
+                     </l>
+                     <l>
+                        <hi>Some great ones under cloſe impriſonment.</hi>
+                     </l>
+                     <p>and ſmall ones too, or at leaſt threatned.</p>
+                  </div>
+                  <div n="April" type="month">
+                     <head>
+                        <hi>April's</hi> Obſervations.</head>
+                     <p>THE Conſultations of this Month, in Councils, ſeems to be Chiefly about Marine affaires; but they differ in their opini<g ref="char:EOLhyphen"/>ons, Sickneſſes and Diſtempers will Naturally ſurprize many of the Vulgar ſort, eſpecially in the City of <hi>London,</hi> let them beware of too much carnality, leſt they ſuffer for it by the Venereal diſtemper: many Mercurial perſons eſpecially in <hi>London</hi> and <hi>Ireland</hi> are now ſome way furiouſly affronted ſome probability of pretty high winds about the 12th. and 27th. Days, and of Hail or Rain about the 4th. 13th. 28th. Days</p>
+                     <l>
+                        <hi>Gradivus doth with Furious rays afflict,</hi>
+                     </l>
+                     <l>
+                        <hi>Bright Noble <hi>Phaebus,</hi> doth him Contradict:</hi>
+                     </l>
+                     <l>
+                        <hi>Some Engliſh Hero on the <hi>Iriſh</hi> Ground,</hi>
+                     </l>
+                     <l>
+                        <hi>I Fear's in danger of a ſecret wound.</hi>
+                     </l>
+                     <p>about the latter end of the Month.</p>
+                  </div>
+                  <div n="May" type="month">
+                     <head>
+                        <hi>May's</hi> Obſervations</head>
+                     <p>IMpriſonment ſeems to be threatned to ſome great Potentates (eſpecially in thoſe Countrys under ♉) but the benigne aſpects of this Month do much favour the Commonalty, and give them the enjoyment of much love content and felicity, and curb that Spirit in them, that may ſometimes be ready to appear in Wrath, but
+<pb n="17" facs="tcp:30165:9"/> their ſucceſs in trading will be but Ordinary: Rain near the begin<g ref="char:EOLhyphen"/>ing and end of the Month.</p>
+                     <l>
+                        <hi>Though Valiant Mars looks furious in an Angle,</hi>
+                     </l>
+                     <l>
+                        <hi>As if he had a ſmall intent to wrangle,</hi>
+                     </l>
+                     <l>
+                        <hi>mild Venus doth old Saturne kindly gree</hi>t,</l>
+                     <l>
+                        <hi>Making Mars mild by Salutations ſweet.</hi>
+                     </l>
+                     <p>So that he is ſcarce hot ſpirited enough to fight</p>
+                  </div>
+                  <div n="June" type="month">
+                     <head>
+                        <hi>June's</hi> Obſervations.</head>
+                     <p>THE Planet Mars, was perſwaded the laſt month to keep his Sword in his ſheath, but I am half a fraid he wil draw him this Month, but <hi>Ireland</hi> is the Place chiefely threatned <hi>(Ergo Caveat Hybernia quoniam nunc illa inerit periculo magis quam multa alia adjacen<g ref="char:EOLhyphen"/>tia Regna)</hi> and ♉ [the aſendant of <hi>Ireland</hi>] is now furiouſly aſcen<g ref="char:EOLhyphen"/>ding upon the ſtage of the world, and ♂ the Planet of Miſchiefe is now preparing to make <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>his tranſmigration over the degree oppoſite to the aſcendant, if the heat of ♂ be not Extinguiſhed, it may break out into a flame about the latter end of this Month or the begining of the next, but there will be ſeveral treatyes to preſerve Peace and I wiſh the animoſityes of ſome Martial Spirits may not be too much incenſed but rather cooled, by moderation and Rationable complian<g ref="char:EOLhyphen"/>ces: the Seas are now well enough cleared from Pyrots, many Whore<g ref="char:EOLhyphen"/>domes are now diſcovered and the Partyes concerned impriſoned, a probability of Rain the 4th and 22d. day, and of Rain and Thun<g ref="char:EOLhyphen"/>der on the 2d 9th 19th. 30th. Day.</p>
+                     <l>
+                        <hi>Come Phaenon,</hi> Phaebus, Hermes, <hi>uſe your Wits,</hi>
+                     </l>
+                     <l>
+                        <hi>That fierce Gradivus make no bloody hits,</hi>
+                     </l>
+                     <l>Phaebus <hi>and</hi> Hermes <hi>ſpread your arms embrace,</hi>
+                     </l>
+                     <l>
+                        <hi>Stout Aris, let him ſheath his ſword In Peace,</hi>
+                     </l>
+                     <p>For that is his beſt place I think we have known wars enough already.</p>
+                  </div>
+                  <div n="July" type="month">
+                     <head>
+                        <hi>July's</hi> Obſervations</head>
+                     <p>THE Vulgar ſort of People are now pretty much Grieved and driven into perturbations of mind, partly about the ſea affairs
+<pb n="18" facs="tcp:30165:10"/> and loſſes thereby and partly about ſome Kind of Religion which many will now be Zealous for, and they often diſcourſe about thoſe that be<g ref="char:EOLhyphen"/>long to the Council houſe: ſome Superiours I fear will be in danger of Impriſonment, The Seas ſeem now to be very perillous for Merchants Ships and partly by Reaſon of Pyrots; the Highways are alſo alittle dan<g ref="char:EOLhyphen"/>gerous for Travellers, by reaſon of Thieves. A probability of ſome Thun<g ref="char:EOLhyphen"/>der and Lightning near the 3d. 8th. 13th. 23d. Day: and of Rain on or about the 8th. 16th. 22d. 29th. Days.</p>
+                     <l>
+                        <hi>I wonder why great Titan ſhould abuſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Our pious ſtar and put him in a muſe</hi>
+                     </l>
+                     <l>
+                        <hi>The learned Clergy ſudden Changes ſee,</hi>
+                     </l>
+                     <l>
+                        <hi>Yielding ſubmiſſion to ſome high Decree.</hi>
+                     </l>
+                     <p>perhaps before the middle of the month.</p>
+                  </div>
+                  <div n="August" type="month">
+                     <head>
+                        <hi>Auguſt's</hi> Obſervations</head>
+                     <p>THE Furious Planet mars is once again got into the Council houſe a little nearer to the cuſp, being lord both of the 10th. and 11th., houſes, the learned in Aſtrology know that in the ſigne and houſe where he is now poſited he uſually creates contentions in councils with a great deal of fury, and their undeſtandings are ſo good that by directing their ocular Rays to the Southerne part of the Zodiack, they can tell you that the fury proceeds partly from thence he that can underſtand it him. The Clergy in <hi>Oxford,</hi> and elſe where ſeem now to be in better con<g ref="char:EOLhyphen"/>tent then in the laſt Month: but Merchants are now ſubject to loſſes through Montanous Waves on the perillous Seas: The Commonalty in General are now Subject to many loſſes Diverſe ways, yet ſeem to go on in their buſineſs and Trading with exhilarated Spirits: many diſcourſes are now about the burials of the Dead, and the Taxes laid thereon, the likelyeſt Days for Rain are the 24th. 16th. 18th. 21ſt. 22d. 23d. Days, Thunder about the 10th. 22d. 26th. Days.</p>
+                     <l>
+                        <hi>Slow Falcifer is in the water creeping,</hi>
+                     </l>
+                     <l>
+                        <hi>With Sullen looks on Sol and Venus peeping:</hi>
+                     </l>
+                     <l>
+                        <hi>We ſee the Rain and hear the Roaring Thunder,</hi>
+                     </l>
+                     <l>
+                        <hi>(Which makes us at the Works of Nature Wonder</hi>
+                     </l>
+                     <p>After the middle of the Month but I fear it will make the Farmer a little ſad</p>
+                  </div>
+                  <div n="September" type="month">
+                     <head>
+                        <hi>September's</hi> Obſervations.</head>
+                     <p>THE proceedings in the Council houſe ſeem pretty ſmooth yet not without a mixture of ſome Ruggedneſs through ſome diſcontented Spirits: The Clergy in General (if not alſo ſome other Perſons profeſſ<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:30165:10"/> Religion) ſeem to be much Grieved and Diſſatisfied at ſomething acted in Councils and they frown at ſome of the Vulgar, about ſome Re<g ref="char:EOLhyphen"/>ligious orders, and for ſomething ſpoken or acted againſt them: and in-; deed it may be admired if ſome of both ſorts ſuffer, not by Impriſonment I am half a fraid of a conſpiracy againſt ſome of the higher Powers, but fears poſſeſs the promoters of the Miſchiefe intended, which perhaps may either fruſtrate or weaken their deſigner There is now plenty enough of Wiſdom and Policy, though indeed Wiſdom is not always the Conſer<g ref="char:EOLhyphen"/>vatix of Peace and Love: <hi>Omnibus temporibus Dominum [Deum] ma<g ref="char:EOLhyphen"/>gis quam viros timeant Cuncti,</hi> The Seas now are very perillous for Mer<g ref="char:EOLhyphen"/>chants Ships, ſome danger of miſcarryages to Women with Child: a pro<g ref="char:EOLhyphen"/>bability of Rain at the begining and about the middle and alſo at the end of the of the month.</p>
+                     <l>Phaebus <hi>and</hi> Hermes <hi>kindly do ſalute,</hi>
+                     </l>
+                     <l>
+                        <hi>Bright</hi> Phaeton, <hi>and with him both diſpute,</hi>
+                     </l>
+                     <l>
+                        <hi>through wiſe and Fair entreatyes to aſſwage,</hi>
+                     </l>
+                     <l>
+                        <hi>Some pious fury and Religious Rage.</hi>
+                     </l>
+                     <p>'Tis well there are ſome pious peace makers, for I think there is need enough of them now, or may be about <hi>November.</hi>
+                     </p>
+                  </div>
+                  <div n="October" type="month">
+                     <head>
+                        <hi>October's</hi> Obſervation</head>
+                     <p>SUperiours now ſeem to be in very great Unity and Benevolence among themſelves, and have alſo pretty good affections towards their ſub<g ref="char:EOLhyphen"/>jects, yet are a little diſpleaſed, to hear that their ſubjects are ſomewhat unwilling to pay ſome kind of Tax. Religion is the thing now much diſ<g ref="char:EOLhyphen"/>courſed of in Councils, together with the Sea affairs: Impriſonment ſeems to be threatened to ſome ſort of profeſſors of Religion, and alſo to ſome Seamen. A probability of Rain or Hail about the 2.12. and 25 days</p>
+                     <l>
+                        <hi>Fair Ericina's pretty wanton Eyes;</hi>
+                     </l>
+                     <l>
+                        <hi>Chronos doth with his cloudy maſk diſguiſe,</hi>
+                     </l>
+                     <l>
+                        <hi>They drop Down tears, do ſadly weep and wail.</hi>
+                     </l>
+                     <l>
+                        <hi>We ſee them fall like Show'res of Rain or Hail.</hi>
+                     </l>
+                     <p>Chiefely about the begining of the month.</p>
+                  </div>
+                  <div n="November" type="month">
+                     <head>
+                        <hi>November's</hi> Obſervations.</head>
+                     <p>IMpriſonment ſeems ſtill to be threatened to ſome of the nobler ſort of the commonalty, for words ſpoken againſt ſome Superiours which I fear will enflame the anger of a great Potentate againſt them; <hi>Ergo linguam Regat Ratio:</hi> The Clergy (if not alſo ſome other profeſſing party) have
+<pb n="20" facs="tcp:30165:11"/> not only been lately troubled but enraged by ſome great Ruler. The Seas are now very perillous for maſters of Ships and mariners partly by reaſon of Pyrots and I fear many miſcarryages will happen to Wo<g ref="char:EOLhyphen"/>men with Child: Good news arrives unto us out of Flanders Norway the Higher, <hi>Bavaria</hi> and <hi>Barbary,</hi> ſome likelihood of Rain or Snow about the 8th. 13th. and 22d. Days</p>
+                     <l>Gradivus <hi>lately did with</hi> Jove <hi>contend,</hi>
+                     </l>
+                     <l>
+                        <hi>Who humbly did to</hi> Mars <hi>greatneſs bend,</hi>
+                     </l>
+                     <l>
+                        <hi>He ſtill looks with a troubled Countenance,</hi>
+                     </l>
+                     <l>
+                        <hi>Becauſe he can't his purpoſes advance.</hi>
+                     </l>
+                     <p>What a deal of croſſeneſſe is here about Religion and like to be</p>
+                  </div>
+                  <div n="December" type="month">
+                     <head>
+                        <hi>December's</hi> Obſevations</head>
+                     <p>I am now beholding a pretty turbulent Face of Heaven: ſome miſchievous con<g ref="char:EOLhyphen"/>ſpiracyes I fear are now in action and ſome ſecret evill deſignes at hand: I am ſorry I ſee occaſions io write ſo often of Impriſonments though it ſeems to be threatned to ſome of the Vulgar (eſpecially about the latter end of the Month) who now ſeem to be diſpleaſed, at ſomething acted by ſuperiours about Religion and weigh<g ref="char:EOLhyphen"/>ty diſcourſes and conſultation are now in Councils about the Comonalty and the Sould<g ref="char:EOLhyphen"/>iers: beware of Robbers on the Roads in <hi>January</hi> next<g ref="char:punc">▪</g> probability of Snow or Rain about the 5th. 19th. and 29th. or 30th. Day.</p>
+                     <l>
+                        <hi>Gradivus now ſees louring</hi> Phaenon <hi>walk,</hi>
+                     </l>
+                     <l>
+                        <hi>Comes to him and with angry tongues they talk,</hi>
+                     </l>
+                     <l>
+                        <hi>One Stamps in fury; ſpeaks a frowning word,</hi>
+                     </l>
+                     <l>
+                        <hi>The other wiſhes for his naked ſword.</hi>
+                     </l>
+                     <p>about the latter end of the month. one of them looks like one of the Council.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>Per Coacervationem propoſitionum Dialecticae.</head>
+               <div type="section">
+                  <head>Per cau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as <hi>&amp;</hi> Effectus</head>
+                  <p>Aſtrology gives ſome the foreknowledge of the times of future events.</p>
+                  <p>Therfore knowledge of the times of future events, makes ſome to be admirers of the Wiſdom of God.</p>
+                  <p>When ſome are admirers of the Wiſdom of God, they are induced to fear God,</p>
+                  <p>When ſome are brought into the fear of God, they enter into lowlines of mind,</p>
+                  <p>When they are brought into lowlineſs of mind their actions are lawful and pleaſing to God.</p>
+                  <p>Therefore Aſtrology is lawful and pleaſing to God, and many have been bene<g ref="char:EOLhyphen"/>fitted by it.</p>
+               </div>
+               <div type="section">
+                  <head>per tertam ſyllogiſmi figuram.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>da</cell>
+                           <cell>m<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>rap</cell>
+                           <cell>min</cell>
+                        </row>
+                        <row>
+                           <cell>ti</cell>
+                           <cell>med</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>All Starry motions are certain</p>
+                  <p>All Starry motions are depended on by Wiſe Aſtrologers to make predictions.</p>
+                  <p>Therefore ſome predictious made by wiſe Aſtrologers are certain <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> if not varied by a miracle, but you muſt have Reſpect to the word wiſe or well learned.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Per Enthynema</hi> in theſe following Verſes.</head>
+                  <l>Semper ſidereos motusait eſſe <hi>Johannes</hi>
+                  </l>
+                  <l>
+                     <hi>Silveſter</hi> certos, igitur per eoſque futuri,</l>
+                  <l>Eventus certe nunc praedicantur ab illo.</l>
+               </div>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
